@@ -11,7 +11,7 @@ This is back-end REST-API app for AC Simple Twitter Project
 1. Open you terminal and clone this repo to your local machine
 
 ```
-git clone https://github.com/PaulChen79/PaulChen-twitter-api-2020.git
+git clone https://github.com/cincinfish/twitter-api-2020
 ```
 
 2. Get into the folder you cloned
@@ -111,6 +111,10 @@ $env:NODE_ENV="development"
 - You can not register to be an admin. Admin user can only be create by manual in DB
 - Admin can not login to normal page
 - Admin can delete any tweet, view all users data
+
+## FrontEnd Repo
+
+https://github.com/SajinYang/simple-twitter-frontend
 
 ## Contributors
 
